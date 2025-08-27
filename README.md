@@ -27,5 +27,5 @@
 ### 🔗 Live Demo & Repository
 
 - **Live App:** [ExpenseIQ Live](https://expensify-pearl.vercel.app/login)  
-- **GitHub Repo:** [ExpenseIQ Repo](https://github.com/your-username/ExpenseIQ)  
+- **GitHub Repo:** [ExpenseIQ Repo](https://github.com/Rahulmahala25/ExpenseIQ)  
 
