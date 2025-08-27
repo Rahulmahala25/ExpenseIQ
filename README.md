@@ -26,6 +26,6 @@
 
 ### 🔗 Live Demo & Repository
 
-* **Live App:** \[Your Live Link]
+* **Live App:** \[https://expensify-pearl.vercel.app/login]
 * **GitHub Repo:** \[Repo Link]
 
